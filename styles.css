@@ -1,0 +1,41 @@
+body {
+  background: #1F2937;
+}
+
+.container {
+  margin: 50px;
+  color: white;
+}
+
+#btn-gen {
+  margin: 33px 0 0 0;
+  background: #10B981;
+  color: white;
+  padding: 9px 17px 9px 15px;
+  border: none;
+  border-radius: 6px;
+}
+
+p {
+  margin-top: 40px;
+  width: 446px;
+  border: 1px solid #2F3E53;
+}
+
+#btn-new {
+  margin: 35px 0 0 0;
+  background: #1F2937;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: auto;
+}
+
+#create-el,
+#new-el {
+  color: #10B981;
+  background: #273549;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
